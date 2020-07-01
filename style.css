@@ -59,6 +59,7 @@ h1{
     border-radius: 5px;
     color: white;
     width: 700;
+    position: relative;
 }
 
 .top-banner{
@@ -73,8 +74,10 @@ background-size: cover;
     background-size: cover; 
     }
 p{
-    margin-right: -60px;
-    align-items: center;
+    font-size: 12px;
+    text-align: left;
+
+    
 }
 .latest-work{
     background-image: url(images/latest-work-bg.png);
