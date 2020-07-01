@@ -1,6 +1,7 @@
 body{
     margin-top: 0;
     font-family: 'Roboto', sans-serif;
+    widt
 }
 .half-width{
     float: left;
@@ -120,6 +121,7 @@ p{
 }
 .last-part{
     text-align: center;
+    position: center;
 }
 .font{
     font-size: 10px;
@@ -132,8 +134,15 @@ p{
     text-align: center;
     
 }
-.decrib{
-    text-align: center;  
+.describe{
+    text-align: center;
+    font-size: 11px;
+    color: #928f8f;
+
+}
+.describ{
+    text-align: center;
+    
 
 }
 
@@ -152,4 +161,5 @@ background-color: #E739C1;
 }
 footer{
     text-align: center;
+    position: relative;
 }
